@@ -48,12 +48,12 @@ const playerTwo = [];
 const playingStack = [];
 // populating player one
 for (let i = 0; i < 7; i++) {
-  const temp = deck.pop(i);
+  const temp = deck.pop();
   playerOne.push(temp);
 }
 //populating player two
 for (let i = 0; i < 7; i++) {
-  const temp = deck.pop(i);
+  const temp = deck.pop();
   playerTwo.push(temp);
 }
 //this is where the players will be placing their cards

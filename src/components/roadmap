@@ -10,7 +10,16 @@
 
 
 
-1.place card onto discard pile
-2.take from the deck 
-3.take from the discard pile
-4.cycle through players
+1.place card onto discard pile   Done
+
+
+2.take from the deck Done
+
+3.cycle through players
+
+
+
+
+
+issues 
+finding the value and then poping that item not the index but the item
